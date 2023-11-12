@@ -49,8 +49,8 @@ letter-spacing: 0.02em;
 }
 
 .menu .list-item .link:hover,
-.contacts .list-item .link:focus,
-.contacts .list-item .link:active {
+.menu .list-item .link:focus,
+.menu .list-item .link:active {
     color: #404BBF;
 }
 
